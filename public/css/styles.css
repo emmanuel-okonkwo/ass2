@@ -1,0 +1,32 @@
+body {
+    background: #eee !important;
+}
+
+.input-style {
+    border: none !important;
+    border-radius: 0 !important;
+    overflow: hidden !important;
+    background: none !important;
+}
+
+.bg-light {
+    background: #fff !important;
+}
+
+.navbar-light {
+    box-shadow: 0 0 5px rgba(0, 0, 0, .3);
+}
+
+.card {
+    overflow: hidden !important;
+    box-shadow: 0 0 5px rgba(0, 0, 0, .1);
+}
+
+.text-sm {
+    display: block;
+    font-size: 13px;
+}
+
+.bg-transparent {
+    background: none !important;
+}
